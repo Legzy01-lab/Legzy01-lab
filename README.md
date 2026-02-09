@@ -77,7 +77,7 @@
 
 - **LinkedIn:** <https://www.linkedin.com/in/adesola-abiola-b42a763ab>  
 - **Email:** <adesholaabey01@gmail.com>  
-- **Portfolio:** <your-portfolio-url>
+- **Portfolio:** <https://github.com/Legzy01-lab>
 
 ---
 
